@@ -1,3 +1,3 @@
-# Regression Models John Hopkins Coursera
+# Regression Models:
 Author: Raveendra Swarna <br />
 
