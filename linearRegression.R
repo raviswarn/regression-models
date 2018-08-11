@@ -4,7 +4,7 @@
 setwd("~/Desktop")
 
 # File is located at 
-# https://raw.githubusercontent.com/mGalarnyk/Python_Tutorials/master/Python_Basics/Linear_Regression/linear.csv
+
 rawData=read.csv("linear.csv", header=T)
 
 # Show first n entries of data.frame, notice NA values
